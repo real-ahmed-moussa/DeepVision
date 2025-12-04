@@ -90,5 +90,5 @@ jupyter notebook notebooks/deepvision_convlstm.ipynb
 ## 📝 License
 This project is shared for portfolio purposes only and may not be used for commercial purposes without permission.
 
-This project is licensed under the MIT License.
-© 2025 Dr. Ahmed Moussa
+This project is licensed under the **MIT License**.  
+© 2025 **Dr. Ahmed Moussa**
