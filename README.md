@@ -53,8 +53,8 @@ Demonstrates the potential of AI-powered video analysis to **automate complex vi
 ## 🛠️ Installation
 1️⃣ **Clone the Repository**
 <pre>
-git clone https://github.com/ahmedmoussa/Projects-Portfolio.git
-cd 'DeepVision - Video Analysis'
+git clone https://github.com/ahmedmoussa/DeepVision.git
+cd DeepVision
 </pre>
 
 2️⃣ **Create Virtual Environment & Install Dependencies**
