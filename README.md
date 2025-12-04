@@ -43,7 +43,7 @@ Demonstrates the potential of AI-powered video analysis to **automate complex vi
 ## 🧠 Model Architecture
 
 <p align="center">
-  <img src="imgs/convlstm_architecture.png" alt="cnnlstm_arch" width="300">
+  <img src="imgs/convlstm_architecture.png" alt="cnnlstm_arch">
 </p>
 
 ---
