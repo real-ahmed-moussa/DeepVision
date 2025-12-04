@@ -54,8 +54,8 @@ Demonstrates the potential of AI-powered video analysis to **automate complex vi
  ┣ 📂 models         
  ┣ 📂 notebooks
  ┣ 📂 imgs
- ┣ README.md
- ┗ Requirements.txt
+ ┣ 📜 Requirements.txt
+ ┗ 📜 README.md
 </pre>
 
 ---
